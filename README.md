@@ -7,4 +7,7 @@
 1. side branch 를 만든다.
 2. side branch 에서 커밋을 2회 정도 수행
 3. master branch 로 돌아가서 1회 커밋한다.
+<<<<<<< HEAD
 4. side branch 에서 진행한 2개의 커밋을 `git cherry-pick`한다.
+=======
+>>>>>>> 3d62768 (second by side branch)
